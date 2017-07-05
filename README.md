@@ -11,14 +11,15 @@
 	git status
 
 ## for some advanced features:
-switch to a the other branch, explore its features, return to the master branch and try so solve the conflicts
+switch to the other branch `git checkout switch_feature`
+explore the newly introduced features:
 
-	git checkout switch_feature
-	make
-	./helloworld 1
-	./helloworld 2
-	./helloworld 34
-	git show
-	git checkout master
-	git merge switch_feature
+    make
+    ./helloworld 1
+    ./helloworld 2
+    ./helloworld 34
+    git show
+	
+return to the master branch: `git checkout master`
+and try so solve the conflicts: `git merge switch_feature`
 
