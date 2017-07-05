@@ -1,0 +1,2 @@
+*.o                      # ignore all compiled C++ files
+helloworld               # ignore the linked binary file 'helloworld'
