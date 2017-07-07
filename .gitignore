@@ -1,2 +1,3 @@
 *.o                      # ignore all compiled C++ files
 helloworld               # ignore the linked binary file 'helloworld'
+presentation.key         # ignore the keynote file

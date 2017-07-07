@@ -10,3 +10,4 @@ helloworld: hello_world.o
 .phony: clean
 clean:
 	rm *.o
+	rm helloworld
