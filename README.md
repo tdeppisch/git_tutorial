@@ -2,7 +2,7 @@
 see presentation.pdf for explanations
 
 ## usage: get the directory and open it
-	Git clone https://github.com/tdeppisch/git_tutorial.git
+	git clone https://github.com/tdeppisch/git_tutorial.git
 	cd git_tutorial
 
 ## compile and run the code with (needs g++)
